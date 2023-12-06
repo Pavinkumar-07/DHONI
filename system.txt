@@ -1,0 +1,2 @@
+git cofig--global username
+get cofig--global username
